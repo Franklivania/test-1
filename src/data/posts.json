@@ -1,0 +1,15 @@
+{
+  "Item 1" : {
+    "title": "This is the post 1 title",
+    "desc": "Item I description",
+    "content": "Item 1 content",
+    "slug": "item-1"
+  },
+
+  "Item 2" : {
+    "title": "This is the post 2 title",
+    "desc": "Item I description",
+    "content": "Item 2 content",
+    "slug": "item-2"
+  }
+}
